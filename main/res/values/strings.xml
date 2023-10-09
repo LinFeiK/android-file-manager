@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">File Manager</string>
+    <string name="app_name">PDF Viewer</string>
     <string name="btn_show_pdf">Show PDF From Storage</string>
 </resources>
